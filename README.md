@@ -4,11 +4,34 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 No-Code Developer | Front End Developer | UI/UX Designer | Graphic Designer
 --------------------------------------------------------------
 
-Hi! I’m a passionate UI/UX Designer who crafts intuitive, user-centered digital experiences for web and mobile. I combine thoughtful design with functional frontend development to bring ideas to life. Whether it’s wireframes, prototypes, or pixel-perfect interfaces, I love turning complex problems into elegant solutions. Always learning, always creating. Let’s build something beautiful!
+I’m a No-Code Developer, UI/UX Designer, Graphic Designer, and Frontend Enthusiast passionate about building digital solutions that are fast, functional, and visually engaging.
 
-* ✉️  You can contact me at [enebeligodwin2@gmail.com](mailto:enebeligodwin2@gmail.com)
-* 🧠  I'm learning User research & analytics integration to improve design decisions
-* 🤝  I'm open to collaborating on UI/UX design for web or mobile apps, Improving user experience through research & testing, Frontend development (HTML, CSS, JavaScript), Mobile app design (iOS/Android), Design-to-code handoff and implementation, Creative digital projects or startups needing a design lead
+## 💡 What I Do  
+- **No-Code Development:** WordPress, Wix, Zapier, Airtable, Bubble  
+- **UI/UX Design:** Figma, Adobe XD, Wireframing & Prototyping  
+- **Graphic Design:** Photoshop, Illustrator, Canva, CorelDRAW  
+- **Frontend Enthusiasm:** HTML, CSS, JavaScript fundamentals  
+
+---
+
+## 📚 Currently Learning  
+- Advanced no-code workflows & integrations  
+- JavaScript & frontend frameworks (React basics)  
+- Product design systems & accessibility best practices  
+
+---
+
+## 🤝 Open to Collaborate On  
+- No-code projects (websites, apps, automation workflows)  
+- UI/UX design for startups & personal projects  
+- Open-source design or frontend initiatives  
+
+---
+
+## ✨ Interests  
+Exploring the future of **low-code/no-code platforms**, creating intuitive user experiences, and collaborating on projects that make an impact.  
+
+---
 
 ### Skills
 
